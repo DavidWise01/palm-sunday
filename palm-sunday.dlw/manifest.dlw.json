@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "The man graded his own life's work on a report card — and gave himself a D where he'd earned it. Honesty as a literary form.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 921,
+    "prev": "6b9b4f693fb5c4c27bc824f2b846089c8fbff718e9a6b77ad5b0d44a600972d4",
+    "link": "4b268e4e096a28545234dd2711e046669a09e39b97f5f4318b68ee4538c320b8",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
